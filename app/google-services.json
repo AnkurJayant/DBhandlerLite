@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "710456143714",
+    "firebase_url": "https://myfblogin-8ebf8.firebaseio.com",
+    "project_id": "myfblogin-8ebf8",
+    "storage_bucket": "myfblogin-8ebf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710456143714:android:f5ef3486c4f001c0",
+        "android_client_info": {
+          "package_name": "com.example.ankur.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710456143714-d04k748dvva63pa0l87vnrqvcvl5j2c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Lpi91JfcusWWfXtQb3NaAdM1Zb7ZsNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
